@@ -1,5 +1,6 @@
 #include <stdio.h>
 //programa matriz preenchida com triangulo pascal
+// matriz 8 por 8
 
 void main() {
     int matriz[8][8];
@@ -48,9 +49,9 @@ void main() {
                 if (matriz[l][c] != 0) {
                     printf(" %d |", matriz[l][c]);
                 }
-                printf("\n");
+               
             }
-        }
+        } printf("\n");
 
     }
 }
