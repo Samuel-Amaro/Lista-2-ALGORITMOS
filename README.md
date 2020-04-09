@@ -1,8 +1,11 @@
-# Lista 2 de Exercios Resolvidos
-Aluno: Samuel Amaro.
+![GitHub top language](https://img.shields.io/github/languages/top/Samuel-Amaro/Lista-2-ALGORITMOS)
+![GitHub language count](https://img.shields.io/github/languages/count/Samuel-Amaro/Lista-2-ALGORITMOS)
+# :computer:Lista 2 de Exercios Resolvidos:computer:
 
-Disciplina: Algoritmos.
+**Aluno: Samuel Amaro.**
 
-Curso: Analise de sistemas.
+**Disciplina: Algoritmos.**
 
-Istituto Federal Goias 1ª Semestre.
+**Curso: Analise de sistemas.**
+
+**Istituto Federal Goias 1ª Semestre.**
